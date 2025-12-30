@@ -39,7 +39,7 @@ This dashboard is designed for:
 
 * Business Analysts
 * Sales & Marketing Teams
-* Ecommerce Managers
+* E-commerce Managers
 * Data Analytics Freshers (Portfolio Project)
 
 ### 📁 File Included
@@ -48,8 +48,11 @@ This dashboard is designed for:
 
 ### 🚀 Outcome
 
+
 The dashboard enables:
 
 * Faster decision-making
 * Better understanding of sales drivers
 * Identification of growth opportunities
+
+show the image:- https://github.com/Mpiyush271/ECOMMERCE-SALES-DASHBOARD/blob/main/Dashboard.png
